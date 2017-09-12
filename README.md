@@ -38,3 +38,23 @@
 ![image](https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2490895003,2642262494&fm=58&s=2370E532CFA568134854D6FC0300F020)
 
 ![](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1867437451,234106013&fm=85&s=574308E2C80208C61DE4B9380300C052&w=121&h=75&img.JPEG)
+
+```js
+function show(){
+
+}
+```
+```html
+<p>样式<a href="https://baidu.com">链接</a></p>
+
+```
+
+
+
+内联的代码`alert("hello world")`内联的代码
+
+
+headder 1 header 2|header 3
+---|---|---|
+row 1 col 1 |   row1 col 2 |3
+row 2 col 2 |   row1 co2 2 |3
